@@ -53,7 +53,7 @@ def question3d():
     # If not possible, return 'NOT POSSIBLE'
 
 def question3e():
-    answerDiscount = 1
+    answerDiscount = 0.99
     answerNoise = 0
     answerLivingReward = 999
     return answerDiscount, answerNoise, answerLivingReward
